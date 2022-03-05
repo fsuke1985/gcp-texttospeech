@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
+    "@google-cloud/text-to-speech": "^3.4.0",
     "@types/jest": "^27.4.0",
     "@types/lodash": "^4.14.178",
     "jest": "^27.5.1",
