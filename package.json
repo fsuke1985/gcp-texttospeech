@@ -8,6 +8,7 @@
     "@google-cloud/text-to-speech": "^3.4.0",
     "@types/jest": "^27.4.0",
     "@types/lodash": "^4.14.178",
+    "cross-env": "^7.0.3",
     "jest": "^27.5.1",
     "lodash": "^4.17.21",
     "ts-jest": "^27.1.3",
