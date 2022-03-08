@@ -106,3 +106,4 @@ dist
 *.swp
 node_modules
 /dist
+*.mp3
